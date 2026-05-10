@@ -72,6 +72,7 @@ Federated Temporary AWS Access
 Least Privilege Enforcement
 ```
 
+![Enterprise IAM Architecture](architecture/enterprise-iam-identity-center-rbac-architecture.png) 
 ---
 
 # AWS Services Used
